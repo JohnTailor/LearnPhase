@@ -43,7 +43,11 @@ We train a VGG-8 network on Cifar-10 and use as transfer task computing the colo
 
 
 ## Output
+
+
 ![Reconstruction Loss and Test Accuracy](adjusted_plot_reconstruction_loss_accuracy.png)
+
+
 
 
 Update:  Epoch, Iteration 0 0   Global Iter 0
