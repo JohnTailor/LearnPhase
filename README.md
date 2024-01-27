@@ -1,6 +1,6 @@
 # Understanding and Leveraging the Learning Phases of Neural Networks
 
-**Code for paper accepted at AAAI: Schneider, J., & Prabhushanka, M. (2023). Understanding and Leveraging the Learning Phases of Neural Networks: https://arxiv.org/abs/2312.06887
+**Code for paper accepted at AAAI: Schneider, J., & Prabhushankar, M. (2023). Understanding and Leveraging the Learning Phases of Neural Networks: https://arxiv.org/abs/2312.06887
 
 
 
